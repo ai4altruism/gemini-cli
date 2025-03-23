@@ -1,4 +1,4 @@
-# Google Gemini API - CLI Chat
+# Google Gemini API Example - CLI Chat
 
 This repository demonstrates a simple command-line chat implementation using the Google API for access to the Gemini family of models. It demonstrates a simple command-line chat implementation using the Google Generative AI API. It serves as a foundational building block for developers looking to integrate advanced AI capabilities into their Python applications.
 
